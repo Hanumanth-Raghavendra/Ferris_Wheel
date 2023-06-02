@@ -1,3 +1,10 @@
+#body{
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+    align-content: center;
+    padding-top: 20px;
+}
 .wheel {
     border: 2px solid black;
     border-radius: 50%;
